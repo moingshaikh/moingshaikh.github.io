@@ -200,6 +200,3 @@ Please discuss it with us first by creating a new issue.
 
 ## Code Maintainers:
 The project is maintained by :
- - [Harshit Singh](https://github.com/helios1101)
- - [Vishal Gorai](https://github.com/greyhatlinux)
-
