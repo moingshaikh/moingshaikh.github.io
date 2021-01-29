@@ -199,4 +199,3 @@ Please discuss it with us first by creating a new issue.
     - [Progate](https://progate.com)
 
 ## Code Maintainers:
-The project is maintained by :
