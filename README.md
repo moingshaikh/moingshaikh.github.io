@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Moin</h1>
 <h3 align="center">A Systems Analyst with cross-functional experience across business process optimization, full-stack development, design, data analyst and marketing.</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moingshaikh" alt="moingshaikh" /></a> </p>
 
+
 <p align="left"> <a href="https://twitter.com/moingshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/moingshaikh?logo=twitter&style=for-the-badge" alt="moingshaikh" /></a> </p>
+
 
 - 💬 Ask me about **Business Analysis, Shopify, Marketing, SaaS and everything in-between!**
 
