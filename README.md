@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moin</h1>
+<h1 align="center">Hi 👋, I'm Moin!</h1>
 <h3 align="center">A Systems Analyst with cross-functional experience across business process optimization, full-stack development, design, data analyst and marketing.</h3>
 
 
