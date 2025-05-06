@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/moingshaikh" target="blank"><img src="https://img.shields.io/twitter/follow/moingshaikh?logo=twitter&style=for-the-badge" alt="moingshaikh" /></a> </p>
 
 
-- 💬 Ask me about **Shopify, eCommerce, SaaS, Marketing and everything in-between!**
+- 💬 Ask me about **Shopify, eCommerce, SaaS, Marketing, and everything in-between!**
 
 - 📫 How to reach me **https://www.linkedin.com/in/moingshaikh**
 
