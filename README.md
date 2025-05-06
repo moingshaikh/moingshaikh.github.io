@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Shopify, eCommerce, SaaS, Marketing, and everything in-between!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/moingshaikh**
+- 📫 Connect with me **https://www.linkedin.com/in/moingshaikh**
 
 <h3 align="left">Connect on Socials:</h3>
 <p align="left">
