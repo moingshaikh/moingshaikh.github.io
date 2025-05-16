@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moin!</h1>
+<h1 align="center">Hi there 👋, I'm Moin!</h1>
 <h3 align="center">A Sr. Business Systems Analyst with over 14 years of cross-functional experience across business process optimization, full-stack development, UX design, data analysis, QA, and revenue optimization.</h3>
 
 
